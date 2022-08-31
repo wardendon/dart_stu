@@ -1,0 +1,4 @@
+hello
+The easiest way to write text to a file is to create a File ---async
+A woman is like a tea bagyou never know how strong it is until it's in hot water.
+-Eleanor Roosevelt
